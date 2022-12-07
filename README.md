@@ -27,7 +27,7 @@
 <br>
 <div>
   <a href="https://developer.apple.com/">
-    <img src="https://img.shields.io/badge/Apple-000000?style=flat&logo=Apple&logoColor=white"/>
+    <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=Apple&logoColor=white"/>
   </a>
   <a href="https://www.swift.org/">
       <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/>

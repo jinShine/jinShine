@@ -11,18 +11,16 @@
 <p>
 <br>
 👋 Hi there!
-<br>I'm <b>frontend developer</b> who loves iOS and Web.🚀
-<br>Also I love soccer very much.⚽️
+<br> iOS와 Web frontend개발을 좋아하는 <b>Frontend 개발자</b>입니다.🚀
 </p>
 
 <br>
 
-> **去去去中知 行行行裏覺**
-> <p>가고 가고 가는 중에 알게되고, 행하고 행하고 행하다 보면 깨닫게 된다.</p>
+> **去去去中知 行行行裏覺** (가고 가고 가는 중에 알게되고, 행하고 행하고 행하다 보면 깨닫게 된다.)
 
 <br>
 
-<h2>🛠 Tech Stack 🛠</h2>
+<h3>🛠 Tech Stack 🛠</h3>
 
 <br>
 <div>
@@ -46,11 +44,24 @@
   <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   </a>
-    <a href="https://ko.reactjs.org/">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+    <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
   </a>
+    <a href="https://ko.reactjs.org/">
+    <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React&logoColor=white"/>
+  </a>
+    </a>
+    <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
 </div>
 <div>
+    </a>
+     <a href="https://github.com/axios/axios">
+    <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"/>
+  </a>
+     <a href="https://graphql-kr.github.io/">
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white"/>
+  </a>
   <a href="https://firebase.google.com/?hl=ko">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
   </a>
